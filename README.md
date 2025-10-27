@@ -4,5 +4,5 @@ Assignment repository for UNT CSCE1015
 ## EUID
 gvo0004
 
-## echo
+## Favorite Linux Command
 $ECHO
